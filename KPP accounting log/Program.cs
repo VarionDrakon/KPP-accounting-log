@@ -18,7 +18,6 @@ namespace KPP_accounting_log
     internal class Program : LoginTemplate
     {
         public string? NameProfileAuthorization { private get; set; }
-        readonly string[] arrLogPassArray = File.ReadAllLines(@"Users/token.txt");
         static void Main(string[] args)
         {
             Console.WriteLine("Starting app...");
@@ -33,12 +32,13 @@ namespace KPP_accounting_log
         }
         private void WorkplaceAuthorization()
         {
-            if (Directory.Exists(@"Users/") == false || File.Exists(@"Users/token.txt") == false)
+            if (Directory.Exists(@"Users/") == false | File.Exists(@"Users/token.txt") == false)
             {
                 Console.WriteLine("Вы не можете начать работу так как отсутствует директория или учётный лист пользователей, обратитесь к системному администратору для решения проблемы!");
             }
             else
             {
+                string[] arrLogPassArray = File.ReadAllLines(@"Users/token.txt");
                 Console.WriteLine("Для начала работы, пожалуйста, авторизируйтесь. Введите логин, затем нажмите enter и введите пароль, после чего повторно нажмите enter!");
                 string? employeeName = Console.ReadLine();
                 NameProfileAuthorization = employeeName;
