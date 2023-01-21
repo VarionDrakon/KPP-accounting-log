@@ -45,10 +45,10 @@ namespace KPP_accounting_log
                 Console.WriteLine("Теперь введите пароль!");
                 try
                 {
-                    int? employeePass = Convert.ToInt32(Console.ReadLine());
+                    string? employeePass = Console.ReadLine();
 
                     bool allowCorrectLog = arrLogPassArray.Contains(employeeName);
-                    bool allowCorrectPass = arrLogPassArray.Contains(employeePass.ToString());
+                    bool allowCorrectPass = arrLogPassArray.Contains(employeePass);
 
                     if (allowCorrectLog == true)
                     {
