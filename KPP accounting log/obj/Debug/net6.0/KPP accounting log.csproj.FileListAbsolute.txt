@@ -1,0 +1,15 @@
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\bin\Debug\net6.0\KPP accounting log.exe
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\bin\Debug\net6.0\KPP accounting log.deps.json
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\bin\Debug\net6.0\KPP accounting log.runtimeconfig.json
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\bin\Debug\net6.0\KPP accounting log.dll
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\bin\Debug\net6.0\KPP accounting log.pdb
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.csproj.AssemblyReference.cache
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.AssemblyInfoInputs.cache
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.AssemblyInfo.cs
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.csproj.CoreCompileInputs.cache
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.dll
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\refint\KPP accounting log.dll
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.pdb
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\KPP accounting log.genruntimeconfig.cache
+C:\Users\VarionDrakon-Life\source\repos\KPP accounting log\KPP accounting log\obj\Debug\net6.0\ref\KPP accounting log.dll
