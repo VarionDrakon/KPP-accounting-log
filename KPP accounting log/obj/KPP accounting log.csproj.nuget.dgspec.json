@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP accounting log\\KPP accounting log.csproj": {}
+    "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP-accounting-log\\KPP accounting log\\KPP accounting log.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP accounting log\\KPP accounting log.csproj": {
+    "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP-accounting-log\\KPP accounting log\\KPP accounting log.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP accounting log\\KPP accounting log.csproj",
+        "projectUniqueName": "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP-accounting-log\\KPP accounting log\\KPP accounting log.csproj",
         "projectName": "KPP accounting log",
-        "projectPath": "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP accounting log\\KPP accounting log.csproj",
+        "projectPath": "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP-accounting-log\\KPP accounting log\\KPP accounting log.csproj",
         "packagesPath": "C:\\Users\\VarionDrakon-Life\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP accounting log\\obj\\",
+        "outputPath": "C:\\Users\\VarionDrakon-Life\\source\\repos\\KPP accounting log\\KPP-accounting-log\\KPP accounting log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VarionDrakon-Life\\AppData\\Roaming\\NuGet\\NuGet.Config",
