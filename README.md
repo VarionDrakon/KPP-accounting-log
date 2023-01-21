@@ -1,0 +1,5 @@
+Ru:
+Программа для учёта посетителей проходящих через КПП. Имеет возможности смены профиля и простую запись в текстовые файлы. При записи учитывает время и дату (Автоматически), цель и ФИО посетителя (Вручную вписывается), при выходе посетителя указывается только ФИО вписывается, остальное подставляется автоматически, проект создан на .NetCore 6 консольное приложение. Проект создан в целях ознакомления и изучения таких принципов ООП в C# как - Абстракция, Наследование, Полиморфизм и Инкапсуляция.
+
+En:
+A program for tracking visitors passing through the checkpoint. It has the ability to change the profile and a simple entry into text files. When recording, it takes into account the time and date (Automatically), the purpose and the visitor's full name (Manually entered), when the visitor exits, only the full name is entered, the rest is substituted automatically, the project is created on .NETCore 6 is a console application. The project was created in order to familiarize and study such principles of OOP in C# as Abstraction, Inheritance, Polymorphism and Encapsulation.
